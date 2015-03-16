@@ -1,6 +1,9 @@
 import java.util.Arrays;
 
 
+/**
+ *  Application tests code points of characters.
+ */
 public class AppCodePoints {
 	public static void main(String[] args) {
 		testCodePoint(65);

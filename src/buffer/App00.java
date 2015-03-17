@@ -7,7 +7,7 @@ import java.io.OutputStream;
 import java.util.Arrays;
 
 /**
- * DECORATOR
+ * DECORATOR Pattern (two same classes on both ends);
  *
  */
 public class App00 {
